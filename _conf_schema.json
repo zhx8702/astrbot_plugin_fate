@@ -1,0 +1,7 @@
+{
+  "api_key": {
+    "type": "string",
+    "description": "天聚数行 API Key，用于星座运势查询",
+    "required": true
+  }
+}
